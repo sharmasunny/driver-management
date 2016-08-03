@@ -1,0 +1,149 @@
+[22-Jul-2016 12:33:22 UTC] PHP Fatal error:  Call to a member function is_logged_in() on a non-object in /home/pccdevenv/public_html/driver-management/application/controllers/Order.php on line 19
+[22-Jul-2016 12:50:10 UTC] PHP Fatal error:  Call to a member function is_logged_in() on a non-object in /home/pccdevenv/public_html/driver-management/application/controllers/Order.php on line 19
+[22-Jul-2016 12:50:39 UTC] PHP Fatal error:  Call to a member function is_logged_in() on a non-object in /home/pccdevenv/public_html/driver-management/application/controllers/Order.php on line 19
+[22-Jul-2016 12:50:40 UTC] PHP Fatal error:  Call to a member function is_logged_in() on a non-object in /home/pccdevenv/public_html/driver-management/application/controllers/Order.php on line 19
+[22-Jul-2016 13:51:19 UTC] Webhook verified: false
+[22-Jul-2016 14:10:13 UTC] Webhook verified: false
+[22-Jul-2016 14:12:10 UTC] Webhook verified: false
+[22-Jul-2016 16:27:29 UTC] Webhook verified: false
+[25-Jul-2016 10:50:54 UTC] PHP Parse error:  syntax error, unexpected 'die' (T_EXIT), expecting function (T_FUNCTION) in /home/pccdevenv/public_html/driver-management/application/controllers/Order.php on line 34
+[25-Jul-2016 10:56:23 UTC] PHP Fatal error:  Call to undefined method CI_DB_mysqli_result::rows() in /home/pccdevenv/public_html/driver-management/application/models/Order_model.php on line 27
+[25-Jul-2016 11:05:47 UTC] PHP Parse error:  syntax error, unexpected 'Array' (T_ARRAY) in /home/pccdevenv/public_html/driver-management/application/controllers/Order.php on line 33
+[25-Jul-2016 11:06:06 UTC] PHP Parse error:  syntax error, unexpected 'array' (T_ARRAY) in /home/pccdevenv/public_html/driver-management/application/controllers/Order.php on line 33
+[25-Jul-2016 11:19:49 UTC] PHP Fatal error:  Call to undefined function validation_errors() in /home/pccdevenv/public_html/driver-management/application/views/order/index.php on line 101
+[25-Jul-2016 11:19:50 UTC] PHP Fatal error:  Call to undefined function validation_errors() in /home/pccdevenv/public_html/driver-management/application/views/order/index.php on line 101
+[25-Jul-2016 11:24:20 UTC] PHP Fatal error:  Call to undefined function validation_errors() in /home/pccdevenv/public_html/driver-management/application/views/order/index.php on line 100
+[25-Jul-2016 11:25:33 UTC] PHP Fatal error:  Call to undefined function validation_errors() in /home/pccdevenv/public_html/driver-management/application/views/order/index.php on line 100
+[25-Jul-2016 11:25:58 UTC] PHP Fatal error:  Call to a member function close() on a non-object in /home/pccdevenv/public_html/driver-management/application/views/order/index.php on line 87
+[25-Jul-2016 11:26:00 UTC] PHP Fatal error:  Call to a member function close() on a non-object in /home/pccdevenv/public_html/driver-management/application/views/order/index.php on line 87
+[25-Jul-2016 11:26:16 UTC] PHP Fatal error:  Call to undefined function validation_errors() in /home/pccdevenv/public_html/driver-management/application/views/order/index.php on line 99
+[25-Jul-2016 11:26:19 UTC] PHP Fatal error:  Call to undefined function validation_errors() in /home/pccdevenv/public_html/driver-management/application/views/order/index.php on line 99
+[25-Jul-2016 11:30:49 UTC] PHP Fatal error:  Call to undefined function validation_errors() in /home/pccdevenv/public_html/driver-management/application/views/order/index.php on line 99
+[25-Jul-2016 11:32:35 UTC] PHP Fatal error:  Call to undefined function validation_errors() in /home/pccdevenv/public_html/driver-management/application/views/order/index.php on line 96
+[25-Jul-2016 11:32:36 UTC] PHP Fatal error:  Call to undefined function validation_errors() in /home/pccdevenv/public_html/driver-management/application/views/order/index.php on line 96
+[25-Jul-2016 11:46:25 UTC] PHP Fatal error:  Call to undefined method CI_DB_mysqli_result::where() in /home/pccdevenv/public_html/driver-management/application/controllers/Order.php on line 33
+[25-Jul-2016 11:46:26 UTC] PHP Fatal error:  Call to undefined method CI_DB_mysqli_result::where() in /home/pccdevenv/public_html/driver-management/application/controllers/Order.php on line 33
+[25-Jul-2016 11:46:27 UTC] PHP Fatal error:  Call to undefined method CI_DB_mysqli_result::where() in /home/pccdevenv/public_html/driver-management/application/controllers/Order.php on line 33
+[25-Jul-2016 11:46:42 UTC] PHP Fatal error:  Call to undefined method CI_DB_mysqli_result::where() in /home/pccdevenv/public_html/driver-management/application/controllers/Order.php on line 33
+[25-Jul-2016 11:46:43 UTC] PHP Fatal error:  Call to undefined method CI_DB_mysqli_result::where() in /home/pccdevenv/public_html/driver-management/application/controllers/Order.php on line 33
+[25-Jul-2016 11:46:46 UTC] PHP Fatal error:  Call to undefined method CI_DB_mysqli_result::where() in /home/pccdevenv/public_html/driver-management/application/controllers/Order.php on line 33
+[25-Jul-2016 11:46:47 UTC] PHP Fatal error:  Call to undefined method CI_DB_mysqli_result::where() in /home/pccdevenv/public_html/driver-management/application/controllers/Order.php on line 33
+[25-Jul-2016 11:46:57 UTC] PHP Fatal error:  Call to undefined method CI_DB_mysqli_result::where() in /home/pccdevenv/public_html/driver-management/application/controllers/Order.php on line 33
+[25-Jul-2016 11:47:53 UTC] PHP Fatal error:  Call to undefined method CI_DB_mysqli_driver::result() in /home/pccdevenv/public_html/driver-management/application/controllers/Order.php on line 42
+[25-Jul-2016 11:48:52 UTC] PHP Fatal error:  Call to undefined method CI_DB_mysqli_driver::result() in /home/pccdevenv/public_html/driver-management/application/controllers/Order.php on line 43
+[25-Jul-2016 11:48:55 UTC] PHP Fatal error:  Call to undefined method CI_DB_mysqli_driver::result() in /home/pccdevenv/public_html/driver-management/application/controllers/Order.php on line 43
+[25-Jul-2016 11:48:57 UTC] PHP Fatal error:  Call to undefined method CI_DB_mysqli_driver::result() in /home/pccdevenv/public_html/driver-management/application/controllers/Order.php on line 43
+[25-Jul-2016 11:56:12 UTC] PHP Fatal error:  Call to a member function get_driver_list() on a non-object in /home/pccdevenv/public_html/driver-management/application/controllers/Order.php on line 36
+[25-Jul-2016 11:56:16 UTC] PHP Fatal error:  Call to a member function get_driver_list() on a non-object in /home/pccdevenv/public_html/driver-management/application/controllers/Order.php on line 36
+[25-Jul-2016 11:56:17 UTC] PHP Fatal error:  Call to a member function get_driver_list() on a non-object in /home/pccdevenv/public_html/driver-management/application/controllers/Order.php on line 36
+[25-Jul-2016 12:12:36 UTC] PHP Parse error:  syntax error, unexpected '}', expecting variable (T_VARIABLE) or '$' in /home/pccdevenv/public_html/driver-management/application/controllers/Order.php on line 44
+[25-Jul-2016 12:42:08 UTC] PHP Parse error:  syntax error, unexpected 'endif' (T_ENDIF), expecting ',' or ';' in /home/pccdevenv/public_html/driver-management/application/views/header.php on line 36
+[25-Jul-2016 12:51:30 UTC] PHP Fatal error:  Call to undefined function img() in /home/pccdevenv/public_html/driver-management/application/views/order/index.php on line 75
+[25-Jul-2016 13:25:21 UTC] PHP Parse error:  syntax error, unexpected ';', expecting ')' in /home/pccdevenv/public_html/driver-management/application/views/order/index.php on line 75
+[25-Jul-2016 13:31:30 UTC] PHP Fatal error:  Call to undefined method Order_model::update() in /home/pccdevenv/public_html/driver-management/application/controllers/Order.php on line 78
+[25-Jul-2016 21:58:20 UTC] PHP Fatal error:  Call to a member function result() on a non-object in /home/pccdevenv/public_html/driver-management/application/controllers/Order.php on line 64
+[26-Jul-2016 07:12:30 UTC] PHP Fatal error:  Label 'https' already defined in /home/pccdevenv/public_html/driver-management/application/controllers/Order.php on line 34
+[26-Jul-2016 07:12:32 UTC] PHP Fatal error:  Label 'https' already defined in /home/pccdevenv/public_html/driver-management/application/controllers/Order.php on line 34
+[26-Jul-2016 07:12:52 UTC] PHP Fatal error:  Call to undefined function printt_r() in /home/pccdevenv/public_html/driver-management/application/views/order/order_id.php on line 2
+[26-Jul-2016 07:12:54 UTC] PHP Fatal error:  Call to undefined function printt_r() in /home/pccdevenv/public_html/driver-management/application/views/order/order_id.php on line 2
+[26-Jul-2016 07:19:09 UTC] PHP Parse error:  syntax error, unexpected '.' in /home/pccdevenv/public_html/driver-management/application/views/order/order_id.php on line 22
+[26-Jul-2016 07:19:44 UTC] PHP Parse error:  syntax error, unexpected '.' in /home/pccdevenv/public_html/driver-management/application/views/order/order_id.php on line 74
+[26-Jul-2016 07:20:06 UTC] PHP Parse error:  syntax error, unexpected '.' in /home/pccdevenv/public_html/driver-management/application/views/order/order_id.php on line 163
+[26-Jul-2016 07:20:08 UTC] PHP Parse error:  syntax error, unexpected '.' in /home/pccdevenv/public_html/driver-management/application/views/order/order_id.php on line 163
+[26-Jul-2016 07:20:11 UTC] PHP Parse error:  syntax error, unexpected '.' in /home/pccdevenv/public_html/driver-management/application/views/order/order_id.php on line 163
+[26-Jul-2016 09:33:27 UTC] PHP Fatal error:  Call to a member function get_driver_list() on a non-object in /home/pccdevenv/public_html/driver-management/application/controllers/Order.php on line 82
+[26-Jul-2016 10:21:42 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/pccdevenv/public_html/driver-management/application/views/order/order_id.php on line 2
+[26-Jul-2016 10:25:19 UTC] PHP Fatal error:  Cannot use object of type stdClass as array in /home/pccdevenv/public_html/driver-management/application/views/order/order_id.php on line 3
+[26-Jul-2016 10:25:25 UTC] PHP Fatal error:  Cannot use object of type stdClass as array in /home/pccdevenv/public_html/driver-management/application/views/order/order_id.php on line 3
+[26-Jul-2016 10:25:42 UTC] PHP Fatal error:  Cannot use object of type stdClass as array in /home/pccdevenv/public_html/driver-management/application/views/order/order_id.php on line 3
+[26-Jul-2016 10:25:45 UTC] PHP Fatal error:  Cannot use object of type stdClass as array in /home/pccdevenv/public_html/driver-management/application/views/order/order_id.php on line 3
+[26-Jul-2016 10:30:51 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/pccdevenv/public_html/driver-management/application/views/order/order_id.php on line 4
+[26-Jul-2016 10:30:52 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/pccdevenv/public_html/driver-management/application/views/order/order_id.php on line 4
+[26-Jul-2016 10:41:22 UTC] PHP Parse error:  syntax error, unexpected '?' in /home/pccdevenv/public_html/driver-management/application/views/order/order_id.php on line 44
+[26-Jul-2016 10:41:23 UTC] PHP Parse error:  syntax error, unexpected '?' in /home/pccdevenv/public_html/driver-management/application/views/order/order_id.php on line 44
+[26-Jul-2016 10:42:16 UTC] PHP Fatal error:  Cannot use object of type stdClass as array in /home/pccdevenv/public_html/driver-management/application/views/order/order_id.php on line 29
+[26-Jul-2016 10:42:18 UTC] PHP Fatal error:  Cannot use object of type stdClass as array in /home/pccdevenv/public_html/driver-management/application/views/order/order_id.php on line 29
+[26-Jul-2016 10:42:50 UTC] PHP Fatal error:  Cannot use object of type stdClass as array in /home/pccdevenv/public_html/driver-management/application/views/order/order_id.php on line 29
+[26-Jul-2016 10:42:51 UTC] PHP Fatal error:  Cannot use object of type stdClass as array in /home/pccdevenv/public_html/driver-management/application/views/order/order_id.php on line 29
+[26-Jul-2016 10:42:52 UTC] PHP Fatal error:  Cannot use object of type stdClass as array in /home/pccdevenv/public_html/driver-management/application/views/order/order_id.php on line 29
+[26-Jul-2016 10:42:53 UTC] PHP Fatal error:  Cannot use object of type stdClass as array in /home/pccdevenv/public_html/driver-management/application/views/order/order_id.php on line 29
+[26-Jul-2016 11:21:25 UTC] PHP Fatal error:  Call to a member function toString() on a non-object in /home/pccdevenv/public_html/driver-management/application/controllers/Order.php on line 61
+[26-Jul-2016 11:36:55 UTC] PHP Fatal error:  Call to undefined method CI_DB_mysqli_driver::first() in /home/pccdevenv/public_html/driver-management/application/controllers/Order.php on line 59
+[26-Jul-2016 11:52:58 UTC] PHP Fatal error:  Cannot use object of type stdClass as array in /home/pccdevenv/public_html/driver-management/application/controllers/Order.php on line 74
+[26-Jul-2016 11:53:19 UTC] PHP Fatal error:  Cannot use object of type stdClass as array in /home/pccdevenv/public_html/driver-management/application/controllers/Order.php on line 74
+[26-Jul-2016 11:53:22 UTC] PHP Fatal error:  Cannot use object of type stdClass as array in /home/pccdevenv/public_html/driver-management/application/controllers/Order.php on line 74
+[26-Jul-2016 11:54:27 UTC] PHP Fatal error:  Cannot use object of type stdClass as array in /home/pccdevenv/public_html/driver-management/application/controllers/Order.php on line 74
+[26-Jul-2016 11:54:30 UTC] PHP Fatal error:  Cannot use object of type stdClass as array in /home/pccdevenv/public_html/driver-management/application/controllers/Order.php on line 74
+[26-Jul-2016 11:54:41 UTC] PHP Fatal error:  Cannot use object of type stdClass as array in /home/pccdevenv/public_html/driver-management/application/controllers/Order.php on line 74
+[26-Jul-2016 11:54:43 UTC] PHP Fatal error:  Cannot use object of type stdClass as array in /home/pccdevenv/public_html/driver-management/application/controllers/Order.php on line 74
+[26-Jul-2016 11:55:28 UTC] PHP Fatal error:  Cannot use object of type stdClass as array in /home/pccdevenv/public_html/driver-management/application/controllers/Order.php on line 74
+[26-Jul-2016 11:55:47 UTC] PHP Fatal error:  Cannot use object of type stdClass as array in /home/pccdevenv/public_html/driver-management/application/controllers/Order.php on line 74
+[26-Jul-2016 11:55:49 UTC] PHP Fatal error:  Cannot use object of type stdClass as array in /home/pccdevenv/public_html/driver-management/application/controllers/Order.php on line 74
+[26-Jul-2016 11:56:13 UTC] PHP Fatal error:  Cannot use object of type stdClass as array in /home/pccdevenv/public_html/driver-management/application/controllers/Order.php on line 73
+[26-Jul-2016 11:56:16 UTC] PHP Fatal error:  Cannot use object of type stdClass as array in /home/pccdevenv/public_html/driver-management/application/controllers/Order.php on line 73
+[26-Jul-2016 11:56:22 UTC] PHP Fatal error:  Cannot use object of type stdClass as array in /home/pccdevenv/public_html/driver-management/application/controllers/Order.php on line 73
+[26-Jul-2016 11:59:04 UTC] PHP Fatal error:  Cannot use object of type stdClass as array in /home/pccdevenv/public_html/driver-management/application/views/order/order_id.php on line 4
+[26-Jul-2016 11:59:09 UTC] PHP Fatal error:  Cannot use object of type stdClass as array in /home/pccdevenv/public_html/driver-management/application/views/order/order_id.php on line 4
+[26-Jul-2016 12:08:05 UTC] PHP Parse error:  syntax error, unexpected '$this' (T_VARIABLE) in /home/pccdevenv/public_html/driver-management/application/controllers/Order.php on line 69
+[26-Jul-2016 13:35:08 UTC] PHP Parse error:  syntax error, unexpected '?' in /home/pccdevenv/public_html/driver-management/application/views/order/order_id.php on line 201
+[26-Jul-2016 13:35:32 UTC] PHP Parse error:  syntax error, unexpected '?' in /home/pccdevenv/public_html/driver-management/application/views/order/order_id.php on line 201
+[26-Jul-2016 13:35:35 UTC] PHP Parse error:  syntax error, unexpected '?' in /home/pccdevenv/public_html/driver-management/application/views/order/order_id.php on line 201
+[26-Jul-2016 13:36:06 UTC] PHP Parse error:  syntax error, unexpected '?' in /home/pccdevenv/public_html/driver-management/application/views/order/order_id.php on line 201
+[26-Jul-2016 13:36:08 UTC] PHP Parse error:  syntax error, unexpected '?' in /home/pccdevenv/public_html/driver-management/application/views/order/order_id.php on line 201
+[26-Jul-2016 13:37:14 UTC] PHP Parse error:  syntax error, unexpected '?' in /home/pccdevenv/public_html/driver-management/application/views/order/order_id.php on line 201
+[26-Jul-2016 22:28:55 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/pccdevenv/public_html/driver-management/application/views/order/order_id.php on line 187
+[26-Jul-2016 22:28:58 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/pccdevenv/public_html/driver-management/application/views/order/order_id.php on line 187
+[26-Jul-2016 22:29:01 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/pccdevenv/public_html/driver-management/application/views/order/order_id.php on line 187
+[27-Jul-2016 00:17:35 UTC] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home/pccdevenv/public_html/driver-management/application/views/order/order_id.php on line 210
+[27-Jul-2016 00:17:38 UTC] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home/pccdevenv/public_html/driver-management/application/views/order/order_id.php on line 210
+[27-Jul-2016 00:18:27 UTC] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home/pccdevenv/public_html/driver-management/application/views/order/order_id.php on line 210
+[27-Jul-2016 00:18:47 UTC] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home/pccdevenv/public_html/driver-management/application/views/order/order_id.php on line 210
+[27-Jul-2016 06:27:49 UTC] PHP Parse error:  syntax error, unexpected 'case' (T_CASE), expecting ':' or '{' in /home/pccdevenv/public_html/driver-management/application/views/order/index.php on line 80
+[27-Jul-2016 06:27:52 UTC] PHP Parse error:  syntax error, unexpected 'case' (T_CASE), expecting ':' or '{' in /home/pccdevenv/public_html/driver-management/application/views/order/index.php on line 80
+[27-Jul-2016 06:27:53 UTC] PHP Parse error:  syntax error, unexpected 'case' (T_CASE), expecting ':' or '{' in /home/pccdevenv/public_html/driver-management/application/views/order/index.php on line 80
+[27-Jul-2016 06:28:47 UTC] PHP Parse error:  syntax error, unexpected 'case' (T_CASE), expecting ':' or '{' in /home/pccdevenv/public_html/driver-management/application/views/order/index.php on line 80
+[27-Jul-2016 06:30:10 UTC] PHP Parse error:  syntax error, unexpected 'case' (T_CASE), expecting ':' or '{' in /home/pccdevenv/public_html/driver-management/application/views/order/index.php on line 82
+[27-Jul-2016 06:30:11 UTC] PHP Parse error:  syntax error, unexpected 'case' (T_CASE), expecting ':' or '{' in /home/pccdevenv/public_html/driver-management/application/views/order/index.php on line 82
+[27-Jul-2016 06:30:57 UTC] PHP Parse error:  syntax error, unexpected 'case' (T_CASE), expecting ':' or '{' in /home/pccdevenv/public_html/driver-management/application/views/order/index.php on line 82
+[27-Jul-2016 06:30:58 UTC] PHP Parse error:  syntax error, unexpected 'case' (T_CASE), expecting ':' or '{' in /home/pccdevenv/public_html/driver-management/application/views/order/index.php on line 82
+[27-Jul-2016 06:31:00 UTC] PHP Parse error:  syntax error, unexpected 'case' (T_CASE), expecting ':' or '{' in /home/pccdevenv/public_html/driver-management/application/views/order/index.php on line 82
+[27-Jul-2016 06:31:10 UTC] PHP Parse error:  syntax error, unexpected 'case' (T_CASE), expecting ':' or '{' in /home/pccdevenv/public_html/driver-management/application/views/order/index.php on line 83
+[27-Jul-2016 06:31:11 UTC] PHP Parse error:  syntax error, unexpected 'case' (T_CASE), expecting ':' or '{' in /home/pccdevenv/public_html/driver-management/application/views/order/index.php on line 83
+[27-Jul-2016 06:31:13 UTC] PHP Parse error:  syntax error, unexpected 'case' (T_CASE), expecting ':' or '{' in /home/pccdevenv/public_html/driver-management/application/views/order/index.php on line 83
+[27-Jul-2016 06:32:23 UTC] PHP Parse error:  syntax error, unexpected 'case' (T_CASE), expecting ':' or '{' in /home/pccdevenv/public_html/driver-management/application/views/order/index.php on line 83
+[27-Jul-2016 06:32:24 UTC] PHP Parse error:  syntax error, unexpected 'case' (T_CASE), expecting ':' or '{' in /home/pccdevenv/public_html/driver-management/application/views/order/index.php on line 83
+[27-Jul-2016 06:32:26 UTC] PHP Parse error:  syntax error, unexpected 'case' (T_CASE), expecting ':' or '{' in /home/pccdevenv/public_html/driver-management/application/views/order/index.php on line 83
+[27-Jul-2016 20:00:13 UTC] PHP Parse error:  syntax error, unexpected '$customer_email' (T_VARIABLE) in /home/pccdevenv/public_html/driver-management/application/controllers/Order.php on line 190
+[27-Jul-2016 20:00:20 UTC] PHP Parse error:  syntax error, unexpected '$customer_email' (T_VARIABLE) in /home/pccdevenv/public_html/driver-management/application/controllers/Order.php on line 190
+[27-Jul-2016 20:01:54 UTC] PHP Parse error:  syntax error, unexpected '$customer_email' (T_VARIABLE) in /home/pccdevenv/public_html/driver-management/application/controllers/Order.php on line 190
+[27-Jul-2016 20:47:32 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/pccdevenv/public_html/driver-management/application/controllers/Order.php on line 116
+[27-Jul-2016 20:48:20 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/pccdevenv/public_html/driver-management/application/controllers/Order.php on line 116
+[27-Jul-2016 20:48:38 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/pccdevenv/public_html/driver-management/application/controllers/Order.php on line 116
+[27-Jul-2016 20:48:41 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/pccdevenv/public_html/driver-management/application/controllers/Order.php on line 116
+[27-Jul-2016 20:50:20 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/pccdevenv/public_html/driver-management/application/controllers/Order.php on line 116
+[27-Jul-2016 20:50:22 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/pccdevenv/public_html/driver-management/application/controllers/Order.php on line 116
+[27-Jul-2016 20:55:59 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/pccdevenv/public_html/driver-management/application/controllers/Order.php on line 118
+[27-Jul-2016 20:56:03 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/pccdevenv/public_html/driver-management/application/controllers/Order.php on line 118
+[27-Jul-2016 21:27:46 UTC] PHP Parse error:  syntax error, unexpected '$this' (T_VARIABLE) in /home/pccdevenv/public_html/driver-management/application/controllers/Order.php on line 82
+[27-Jul-2016 21:27:50 UTC] PHP Parse error:  syntax error, unexpected '$this' (T_VARIABLE) in /home/pccdevenv/public_html/driver-management/application/controllers/Order.php on line 82
+[27-Jul-2016 21:28:34 UTC] PHP Parse error:  syntax error, unexpected '$this' (T_VARIABLE) in /home/pccdevenv/public_html/driver-management/application/controllers/Order.php on line 82
+[28-Jul-2016 21:27:46 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/pccdevenv/public_html/driver-management/application/views/order/order_id.php on line 202
+[28-Jul-2016 21:30:26 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/pccdevenv/public_html/driver-management/application/views/order/order_id.php on line 204
+[28-Jul-2016 22:10:42 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/pccdevenv/public_html/driver-management/application/views/order/order_id.php on line 192
+[28-Jul-2016 22:10:44 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/pccdevenv/public_html/driver-management/application/views/order/order_id.php on line 192
+[28-Jul-2016 23:23:08 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/pccdevenv/public_html/driver-management/application/views/order/order_id.php on line 237
+[29-Jul-2016 12:53:57 UTC] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home/pccdevenv/public_html/driver-management/application/views/order/order_id.php on line 207
+[29-Jul-2016 12:53:58 UTC] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home/pccdevenv/public_html/driver-management/application/views/order/order_id.php on line 207
+[29-Jul-2016 20:12:52 UTC] PHP Fatal error:  Cannot use object of type stdClass as array in /home/pccdevenv/public_html/driver-management/application/views/order/order_id.php on line 2
+[01-Aug-2016 16:22:48 UTC] PHP Fatal error:  Cannot use object of type stdClass as array in /home/pccdevenv/public_html/driver-management/application/views/order/order_id.php on line 267
+[02-Aug-2016 23:37:16 UTC] PHP Parse error:  syntax error, unexpected '$arrayName' (T_VARIABLE) in /home/pccdevenv/public_html/driver-management/application/views/order/order_id.php on line 263
+[03-Aug-2016 00:26:13 UTC] PHP Parse error:  syntax error, unexpected '{' in /home/pccdevenv/public_html/driver-management/application/controllers/Order.php on line 151
+[03-Aug-2016 00:26:15 UTC] PHP Parse error:  syntax error, unexpected '{' in /home/pccdevenv/public_html/driver-management/application/controllers/Order.php on line 151
+[03-Aug-2016 00:26:17 UTC] PHP Parse error:  syntax error, unexpected '{' in /home/pccdevenv/public_html/driver-management/application/controllers/Order.php on line 151
+[03-Aug-2016 00:26:27 UTC] PHP Parse error:  syntax error, unexpected '{' in /home/pccdevenv/public_html/driver-management/application/controllers/Order.php on line 151
+[03-Aug-2016 00:27:13 UTC] PHP Parse error:  syntax error, unexpected '{' in /home/pccdevenv/public_html/driver-management/application/controllers/Order.php on line 151
+[03-Aug-2016 00:47:04 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/pccdevenv/public_html/driver-management/application/controllers/Order.php on line 166
+[03-Aug-2016 00:47:07 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/pccdevenv/public_html/driver-management/application/controllers/Order.php on line 166
+[03-Aug-2016 16:37:35 UTC] PHP Parse error:  syntax error, unexpected 'die' (T_EXIT), expecting ',' or ';' in /home/pccdevenv/public_html/driver-management/application/controllers/Order.php on line 180
+[03-Aug-2016 16:37:38 UTC] PHP Parse error:  syntax error, unexpected 'die' (T_EXIT), expecting ',' or ';' in /home/pccdevenv/public_html/driver-management/application/controllers/Order.php on line 180
+[03-Aug-2016 16:37:57 UTC] PHP Parse error:  syntax error, unexpected 'die' (T_EXIT), expecting ',' or ';' in /home/pccdevenv/public_html/driver-management/application/controllers/Order.php on line 180
